@@ -1,0 +1,11 @@
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\bin\Debug\netcoreapp3.1\OPP-Inheritance.exe
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\bin\Debug\netcoreapp3.1\OPP-Inheritance.deps.json
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\bin\Debug\netcoreapp3.1\OPP-Inheritance.runtimeconfig.json
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\bin\Debug\netcoreapp3.1\OPP-Inheritance.runtimeconfig.dev.json
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\bin\Debug\netcoreapp3.1\OPP-Inheritance.dll
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\bin\Debug\netcoreapp3.1\OPP-Inheritance.pdb
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\obj\Debug\netcoreapp3.1\OPP-Inheritance.csprojAssemblyReference.cache
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\obj\Debug\netcoreapp3.1\OPP-Inheritance.AssemblyInfoInputs.cache
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\obj\Debug\netcoreapp3.1\OPP-Inheritance.AssemblyInfo.cs
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\obj\Debug\netcoreapp3.1\OPP-Inheritance.dll
+G:\TryDotNet\fromAvetisGProgramming\OPP-Inheritance\obj\Debug\netcoreapp3.1\OPP-Inheritance.pdb
