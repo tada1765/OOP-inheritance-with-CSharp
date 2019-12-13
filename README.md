@@ -8,11 +8,15 @@ Inheritance:
 
 - abstract
 - interface
+
 # Abstract Inheritance
+
 #1. create 3 diff cs file on the working folder
 -------------------------------------------
+
 - Laptop.cs
 ------------
+
 this class is ready to inherited by other class.
  
 code:
@@ -62,6 +66,7 @@ public virtual void TurnOn()
 
 - MacbookAir.cs
 -------------
+
 inheriting Laptop.cs class.
 
 code:
